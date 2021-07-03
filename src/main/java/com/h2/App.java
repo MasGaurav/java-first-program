@@ -14,4 +14,5 @@ public class App
     public static int doubleTheNumber(int number) {
         return 2*number;
     }
+    private static int add(int[] numbers){return -1;}
 }
